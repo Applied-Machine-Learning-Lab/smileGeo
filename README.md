@@ -2,9 +2,7 @@
 
 ## Dataset
 
-Due to the limited size of the attachments allowed to be uploaded, as well as the size limition of the code repository, we are temporarily unable to provide a way to download the full dataset (approximately 32GB) anonymously. 
-
-A small set of data samples are provided for this code in the 'data' folder.
+Dataset is provided at https://www.kaggle.com/datasets/o0o0oo/geoglobe
 
 Here is a screenshot of parts of the data from the full dataset:
 <p float="left">
